@@ -1,9 +1,26 @@
 body {
-    background-color: #121212; /* Um cinza bem escuro, estilo palco de show */
-    color: #ffffff; /* Deixa os textos normais brancos */
+    background-color: #87CEEB;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
 }
 
 h1 {
-    color: #f1c40f; /* Um amarelo dourado bem bonito */
+    color: #003366;
     font-size: 50px;
+    font-family: 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+}
+
+h2 {
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+iframe {
+    width: 80%;
+    max-width: 560px;
+    height: 315px;
+    border-radius: 12px;
+    margin: 10px 0;
 }
