@@ -1,26 +1,26 @@
-body {
-    background-color: #87CEEB;
-    color: #ffffff;
-    font-family: Arial, sans-serif;
-    text-align: center;
-}
-
 h1 {
     color: #003366;
-    font-size: 50px;
-    font-family: 'Trebuchet MS', sans-serif;
-    letter-spacing: 2px;
+    font-size: 55px;
+    font-family: 'Impact', 'Arial Black', sans-serif; /* Fonte bem marcante e estilizada! */
+    letter-spacing: 3px;
+    text-transform: uppercase; /* Deixa o título em letras maiúsculas */
 }
 
 h2 {
     color: #ffffff;
-    margin-top: 30px;
+    font-family: 'Verdana', sans-serif; /* Fonte moderna e super legível */
+    font-size: 28px;
+    margin-top: 40px;
+    border-bottom: 2px solid #ffffff; /* Uma linha elegante debaixo de cada categoria */
+    display: inline-block;
+    padding-bottom: 5px;
 }
 
 iframe {
-    width: 80%;
-    max-width: 560px;
-    height: 315px;
-    border-radius: 12px;
-    margin: 10px 0;
+    width: 90%;
+    max-width: 800px; /* Vídeo maior na tela! */
+    height: 450px; /* Altura de cinema! */
+    border-radius: 16px;
+    margin: 20px 0;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); /* Uma sombra bonita ao redor dos vídeos */
 }
