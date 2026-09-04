@@ -1,8 +1,9 @@
 body {
-    background-color: rgb(0, 140, 255);
+    background-color: #121212; /* Um cinza bem escuro, estilo palco de show */
+    color: #ffffff; /* Deixa os textos normais brancos */
 }
 
 h1 {
-    color: azure;
-    font-size: 75px;
+    color: #f1c40f; /* Um amarelo dourado bem bonito */
+    font-size: 50px;
 }
